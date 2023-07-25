@@ -8,4 +8,4 @@ Game caro môn lập trình Java
 - Sử dụng giao thức socket.
 - Lập trình đa luống.
 - Lập trình client server.
-# Demo về sản phẩm
+# Giao diện
