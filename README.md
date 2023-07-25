@@ -9,4 +9,5 @@ Game caro môn lập trình Java
 - Lập trình đa luống.
 - Lập trình client server.
 # Giao diện
+![h1](https://github.com/BThanhNhut/Game_Caro/assets/92388024/00656b3d-e7ad-44a9-8b77-efeb21f551fe)
 ![1](https://github.com/BThanhNhut/Game_Caro/assets/92388024/5f8fe688-37c2-4f8a-aca6-241b5c5a1d66)
